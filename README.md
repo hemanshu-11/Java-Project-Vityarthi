@@ -57,27 +57,6 @@ The system includes:
 
 ---
 
-## 📂 Project Structure
-
-```text
-HospitalQueueManagement/
-│
-├── pom.xml
-│
-└── src/
-    └── main/
-        ├── java/
-        │   └── com/
-        │       └── hospital/
-        │           └── queue/
-        │               ├── HospitalQueueApplication.java
-        │               ├── Database.java
-        │               ├── HospitalService.java
-        │               └── HospitalController.java
-        │
-        └── resources/
-            └── application.properties
-```
 
 ---
 
