@@ -250,4 +250,4 @@ Built using **Java + Spring Boot + SQLite**.
 
 ## Author
 
-Hemanshu m
+Hemanshu M
